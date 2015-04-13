@@ -1,0 +1,8 @@
+
+.player-ui .osmplayer-default-teaser-info img{
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 44px!important;
+   opacity:0;
+ 
+}
